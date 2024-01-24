@@ -1,0 +1,26 @@
+{
+  "name": "@dhl-uu/deparam",
+  "version": "1.0.0",
+  "description": "deparam function, extracted from Ben Alman's jQuery BBQ",
+  "main": "deparam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CentreForDigitalHumanities/deparam.git"
+  },
+  "keywords": [
+    "deparam",
+    "param",
+    "jQuery",
+    "BBQ"
+  ],
+  "author": "UU Centre for Digital Humanities - Research Software Lab",
+  "license": "MIT",
+  "types": "./deparam.d.ts",
+  "bugs": {
+    "url": "https://github.com/CentreForDigitalHumanities/deparam/issues"
+  },
+  "homepage": "https://github.com/CentreForDigitalHumanities/deparam#readme"
+}
