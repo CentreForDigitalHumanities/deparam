@@ -18,6 +18,9 @@
   ],
   "author": "UU Centre for Digital Humanities - Research Software Lab",
   "license": "MIT",
+  "peerDependencies": {
+    "jquery": "<4"
+  },
   "types": "./deparam.d.ts",
   "bugs": {
     "url": "https://github.com/CentreForDigitalHumanities/deparam/issues"
